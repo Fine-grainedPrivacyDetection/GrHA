@@ -1,4 +1,4 @@
-This repository contains the implementation of `Fine-grained Privacy Detection with Graph-regularized Hierarchical Attentive Representation Learning` in tensorflow.
+This repository contains the implementation of `Fine-grained Privacy Detection with Graph-regularized Hierarchical Attentive Representation Learning` in Python.
 
 # Requirements:
 * Python 3.5.2
